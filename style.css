@@ -28,10 +28,13 @@ p {
 }
 
 img {
-    text-align:center ;
-    width: 300px;
+    
+    font-display: block;
+    width: 600px;
     height: auto;
     object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
     border-radius: 8px;
 }
 a {
